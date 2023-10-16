@@ -1,0 +1,22 @@
+.color-picker {
+  text-align: center;
+  padding: 50px;
+  color: white;
+  transition: background-color 0.5s;
+  min-height: 100vh;
+}
+
+.color-input {
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+}
+
+.color-input:hover {
+  background-color: #f1f1f1;
+}
